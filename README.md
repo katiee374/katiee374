@@ -1,4 +1,4 @@
-## Hello, World!
+## 👋 Hello, World!
 My name is Katie Emerson, and I'm a rising sophomore at Wellesley College.
 
 - 📚 I'm studying CS & Mathematics...
