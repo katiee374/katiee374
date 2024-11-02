@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>My name is Katie Emerson, and I'm a rising sophomore at Wellesley College. Send me an email at [ke101@wellesley.edu](mailto:ke101@wellesley.edu)<br><br>📚 I'm studying CS & Mathematics...<br>📊 I’m currently working on developing problem sets for a new CS course...<br>🌱 I’m currently learning how to build ML models...<br>🔧 I know Python (especially ML packages), Java, C, and C++<br>💬 Ask me about developments in CS Education...<br>📫 How to reach me: LinkedIn<br>😄 Pronouns: she/her<br>⚡ Fun fact: I play the flute in jazz band!
+# 👋 Hello, World!
+<br>My name is Katie Emerson, and I'm a rising sophomore at Wellesley College. Send me an email at [ke101@wellesley.edu](mailto:ke101@wellesley.edu)!<br><br>📚 I'm studying CS & Mathematics...<br>📊 I’m currently working on developing problem sets for a new CS course...<br>🌱 I’m currently learning how to build ML models...<br>🔧 I know Python (especially ML packages), Java, C, and C++<br>💬 Ask me about developments in CS Education...<br>📫 How to reach me: LinkedIn<br>😄 Pronouns: she/her<br>⚡ Fun fact: I play the flute in jazz band!
 
 
 ## 🌐 Socials:
