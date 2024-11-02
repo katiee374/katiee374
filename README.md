@@ -9,4 +9,4 @@ My name is Katie Emerson, and I'm a rising sophomore at Wellesley College.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play the flute in jazz band!
 
-Send me an email at [ke101@wellesley.edu](ke101@wellesley.edu) or coonnect on LinkedIn @katelynnemerson !
+Send me an email at [ke101@wellesley.edu](mailto:ke101@wellesley.edu) or coonnect on LinkedIn @katelynnemerson !
