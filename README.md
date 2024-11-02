@@ -12,4 +12,4 @@ My name is Katie Emerson, and I'm a rising sophomore at Wellesley College.
 
 Send me an email at [ke101@wellesley.edu](mailto:ke101@wellesley.edu) or coonnect on LinkedIn @katelynnemerson !
 
-[![Katie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=katiee374)](https://github.com/anuraghazra/github-readme-stats)
+[![Katie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=katiee374&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
